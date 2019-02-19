@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f624982-85ab-41fb-8ebc-727f0009238d" name="Default Changelist" comment="" />
+    <list default="true" id="9f624982-85ab-41fb-8ebc-727f0009238d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PythonScript$index.coverage" NAME="index Coverage Results" MODIFIED="1550606243519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonScript$index.coverage" NAME="index Coverage Results" MODIFIED="1550607905677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="PythonScript" />
@@ -19,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="463">
+              <caret line="55" column="43" lean-forward="true" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -59,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="438">
-              <caret line="119" column="67" lean-forward="true" selection-start-line="119" selection-start-column="67" selection-end-line="119" selection-end-column="67" />
+              <caret line="119" column="67" selection-start-line="119" selection-start-column="67" selection-end-line="119" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -87,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/geckodriver.log">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="269">
-              <caret line="2157" column="59" lean-forward="true" selection-start-line="2157" selection-start-column="59" selection-end-line="2157" selection-end-column="59" />
+              <caret line="2157" column="59" selection-start-line="2157" selection-start-column="59" selection-end-line="2157" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -106,6 +109,9 @@
       <find>Киев</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -118,6 +124,7 @@
     <option name="width" value="885" />
     <option name="height" value="996" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -195,22 +202,23 @@
       <option name="presentableId" value="Default" />
       <updated>1550518684796</updated>
       <workItem from="1550518688250" duration="3812000" />
-      <workItem from="1550579920632" duration="20472000" />
+      <workItem from="1550579920632" duration="21815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24284000" />
+    <option name="totallyTimeSpent" value="25627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1040" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49859154" visible="true" weight="0.20064034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50140846" side_tool="true" weight="0.20064034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2721239" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27131784" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.21681416" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,7 +227,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.289823" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.19379845" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32964602" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -273,14 +281,14 @@
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
-          <caret line="119" column="67" lean-forward="true" selection-start-line="119" selection-start-column="67" selection-end-line="119" selection-end-column="67" />
+          <caret line="119" column="67" selection-start-line="119" selection-start-column="67" selection-end-line="119" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/geckodriver.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
-          <caret line="2157" column="59" lean-forward="true" selection-start-line="2157" selection-start-column="59" selection-end-line="2157" selection-end-column="59" />
+          <caret line="2157" column="59" selection-start-line="2157" selection-start-column="59" selection-end-line="2157" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -293,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="463">
+          <caret line="55" column="43" lean-forward="true" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
